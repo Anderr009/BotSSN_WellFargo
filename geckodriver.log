@@ -1,0 +1,273 @@
+1696536353811	geckodriver	INFO	Listening on 127.0.0.1:58622
+1696536356880	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "user-agent=Mozilla/5.0 (Windows  ... 3" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ander\\AppData\\Local\\Temp\\rust_mozprofileem3M50"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696536357436	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696536357555	Marionette	INFO	Listening on port 58647
+WebDriver BiDi listening on ws://127.0.0.1:58623
+Read port: 58647
+1696536357968	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58623/devtools/browser/36ed19ba-5b3e-4cc2-bbf3-f4e072f687f5
+JavaScript warning: https://oam.wellsfargo.com/QJshK4zyeX/QrObJ4/g-Qb/mafYStSLwkwaYV/fXI2UUA/SCUh/QFx3c24B, line 1: unreachable code after return statement
+JavaScript warning: https://oam.wellsfargo.com/oamo/identity/help/passwordhelp#/, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://oam.wellsfargo.com/QJshK4zyeX/QrObJ4/g-Qb/mafYStSLwkwaYV/fXI2UUA/SCUh/QFx3c24B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://oam.wellsfargo.com/QJshK4zyeX/QrObJ4/g-Qb/mafYStSLwkwaYV/fXI2UUA/SCUh/QFx3c24B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://oam.wellsfargo.com/QJshK4zyeX/QrObJ4/g-Qb/mafYStSLwkwaYV/fXI2UUA/SCUh/QFx3c24B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.wellsfargo.com/tracking/gb/detector-dom.min.js, line 6: asm.js type error: cannot create array view without an asm.js heap parameter
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://oam.wellsfargo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://oam.wellsfargo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://oam.wellsfargo.com."
+1696536387541	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://connect.secure.wellsfargo.com/ztAZgN3nS/XEzdlxrf/Q/X3VaVrSNt8G9/TisvAQ/NX4XYXl/yRwoB, line 1: unreachable code after return statement
+JavaScript warning: https://connect.secure.wellsfargo.com/auth/login/static/js/general_alt.js?1js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.wellsfargo.com/tracking/gb/detector-dom.min.js, line 6: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://connect.secure.wellsfargo.com/ztAZgN3nS/XEzdlxrf/Q/X3VaVrSNt8G9/TisvAQ/NX4XYXl/yRwoB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://connect.secure.wellsfargo.com/auth/login/static/js/general_alt.js?async&seed=AAD2bAGLAQAAhDX6hE6ob2kQ42Rg6G6ROsCqpJIoOu6zYMGNrx1N9rrj4BWI&X-G2Q3kxs3--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://connect.secure.wellsfargo.com/ztAZgN3nS/XEzdlxrf/Q/X3VaVrSNt8G9/TisvAQ/NX4XYXl/yRwoB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://connect.secure.wellsfargo.com/ztAZgN3nS/XEzdlxrf/Q/X3VaVrSNt8G9/TisvAQ/NX4XYXl/yRwoB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1696536390356	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://connect.secure.wellsfargo.com/auth/login/static/js/general_alt.js?1js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://connect.secure.wellsfargo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://connect.secure.wellsfargo.com."
+1696536392606	Marionette	INFO	Stopped listening on port 58647
+JavaScript warning: https://connect.secure.wellsfargo.com/auth/login/static/js/general_alt.js?1js, line 4: Script terminated by timeout at:
+b@https://connect.secure.wellsfargo.com/auth/login/static/js/general_alt.js?1js:4:556796
+
+Dynamically enable window occlusion 1
+console.error: (new AbortError("IndexedDB: main/ms-language-packs getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1696536420760	geckodriver	INFO	Listening on 127.0.0.1:58816
+1696536423811	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "user-agent=Mozilla/5.0 (Windows  ... 7" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ander\\AppData\\Local\\Temp\\rust_mozprofile4yAUuF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696536424455	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696536424608	Marionette	INFO	Listening on port 58838
+WebDriver BiDi listening on ws://127.0.0.1:58817
+Read port: 58838
+1696536424981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58817/devtools/browser/b6341d59-2e42-49a8-8bed-2d7f8d23b465
+JavaScript warning: https://oam.wellsfargo.com/QJshK4zyeX/QrObJ4/g-Qb/mafYStSLwkwaYV/fXI2UUA/SCUh/QFx3c24B, line 1: unreachable code after return statement
+JavaScript warning: https://oam.wellsfargo.com/oamo/identity/help/passwordhelp#/, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://oam.wellsfargo.com/QJshK4zyeX/QrObJ4/g-Qb/mafYStSLwkwaYV/fXI2UUA/SCUh/QFx3c24B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://oam.wellsfargo.com/QJshK4zyeX/QrObJ4/g-Qb/mafYStSLwkwaYV/fXI2UUA/SCUh/QFx3c24B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://oam.wellsfargo.com/QJshK4zyeX/QrObJ4/g-Qb/mafYStSLwkwaYV/fXI2UUA/SCUh/QFx3c24B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.wellsfargo.com/tracking/gb/detector-dom.min.js, line 6: asm.js type error: cannot create array view without an asm.js heap parameter
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://oam.wellsfargo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://oam.wellsfargo.com."
+1696536455332	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1696536460680	Marionette	INFO	Stopped listening on port 58838
+JavaScript warning: https://oam.wellsfargo.com/QJshK4zyeX/QrObJ4/g-Qb/mafYStSLwkwaYV/fXI2UUA/SCUh/QFx3c24B, line 1: Script terminated by timeout at:
+PG@https://oam.wellsfargo.com/QJshK4zyeX/QrObJ4/g-Qb/mafYStSLwkwaYV/fXI2UUA/SCUh/QFx3c24B:1:48869
+
+Dynamically enable window occlusion 1
+1696536483668	geckodriver	INFO	Listening on 127.0.0.1:58969
+1696536486738	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "user-agent=Mozilla/5.0 (Windows  ... 0" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ander\\AppData\\Local\\Temp\\rust_mozprofileBPzpdf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696536487163	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696536487283	Marionette	INFO	Listening on port 58984
+Read port: 58984
+WebDriver BiDi listening on ws://127.0.0.1:58970
+1696536487401	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58970/devtools/browser/9776a881-1d53-4402-841b-68dd92493437
+JavaScript warning: https://oam.wellsfargo.com/QJshK4zyeX/QrObJ4/g-Qb/mafYStSLwkwaYV/fXI2UUA/SCUh/QFx3c24B, line 1: unreachable code after return statement
+JavaScript warning: https://oam.wellsfargo.com/oamo/identity/help/passwordhelp#/, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://oam.wellsfargo.com/QJshK4zyeX/QrObJ4/g-Qb/mafYStSLwkwaYV/fXI2UUA/SCUh/QFx3c24B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://oam.wellsfargo.com/QJshK4zyeX/QrObJ4/g-Qb/mafYStSLwkwaYV/fXI2UUA/SCUh/QFx3c24B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://oam.wellsfargo.com/QJshK4zyeX/QrObJ4/g-Qb/mafYStSLwkwaYV/fXI2UUA/SCUh/QFx3c24B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.wellsfargo.com/tracking/gb/detector-dom.min.js, line 6: asm.js type error: cannot create array view without an asm.js heap parameter
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://oam.wellsfargo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://oam.wellsfargo.com."
+JavaScript warning: https://static.wellsfargo.com/tracking/gb/detector-dom.min.js, line 6: Script terminated by timeout at:
+jr/u/<@https://static.wellsfargo.com/tracking/gb/detector-dom.min.js:6:350186
+e@https://static.wellsfargo.com/tracking/gb/detector-dom.min.js:6:349669
+
+1696536515243	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1696536517224	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://oam.wellsfargo.com/oamo/identity/help/passwordhelp#/, line 28: Script terminated by timeout at:
+uB@https://oam.wellsfargo.com/oamo/identity/help/passwordhelp#/:28:262512
+uM@https://oam.wellsfargo.com/oamo/identity/help/passwordhelp#/:28:262483
+wi<@https://oam.wellsfargo.com/oamo/identity/help/passwordhelp#/:28:100215
+uB@https://oam.wellsfargo.com/oamo/identity/help/passwordhelp#/:28:262603
+uM@https://oam.wellsfargo.com/oamo/identity/help/passwordhelp#/:28:262483
+wi<@https://oam.wellsfargo.com/oamo/identity/help/passwordhelp#/:28:90661
+wc@https://oam.wellsfargo.com/oamo/identity/help/passwordhelp#/:28:66050
+uB@https://oam.wellsfargo.com/oamo/identity/help/passwordhelp#/:28:262615
+uM@https://oam.wellsfargo.com/oamo/identity/help/passwordhelp#/:28:262483
+wi<@https://oam.wellsfargo.com/oamo/identity/help/passwordhelp#/:28:73646
+wc@https://oam.wellsfargo.com/oamo/identity/help/passwordhelp#/:28:66050
+uB@https://oam.wellsfargo.com/oamo/identity/help/passwordhelp#/:28:262615
+uM@https://oam.wellsfargo.com/oamo/identity/help/passwordhelp#/:28:262483
+wi<@https://oam.wellsfargo.com/oamo/identity/help/passwordhelp#/:28:100215
+wc@https://oam.wellsfargo.com/oamo/identity/help/passwordhelp#/:28:66050
+uB@https://oam.wellsfargo.com/oamo/identity/help/passwordhelp#/:28:262615
+uM@https://oam.wellsfargo.com/oamo/identity/help/passwordhelp#/:28:262483
+wi<@https://oam.wellsfargo.com/oamo/identity/help/passwordhelp#/:28:100215
+uB@https://oam.wellsfargo.com/oamo/identity/help/passwordhelp#/:28:262603
+uM@https://oam.wellsfargo.com/oamo/identity/help/passwordhelp#/:28:262483
+wi<@https://oam.wellsfargo.com/oamo/identity/help/passwordhelp#/:28:93074
+uB@https://oam.wellsfargo.com/oamo/identity/help/passwordhelp#/:28:262603
+uM@https://oam.wellsfargo.com/oamo/identity/help/passwordhelp#/:28:262483
+wi<@https://oam.wellsfargo.com/oamo/identity/help/passwordhelp#/:28:100215
+uB@https://oam.wellsfargo.com/oamo/identity/help/passwordhelp#/:28:262603
+uM@https://oam.wellsfargo.com/oamo/identity/help/passwordhelp#/:28:262483
+@https://oam.wellsfargo.com/oamo/identity/help/passwordhelp#/:29:530
+@https://oam.wellsfargo.com/oamo/identity/help/passwordhelp#/:29:534
+
+1696536519250	Marionette	INFO	Stopped listening on port 58984
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+
+console.warn: services.settings: main/password-recipes sync interrupted by shutdown
+console.warn: services.settings: main/password-rules sync interrupted by shutdown
+console.warn: services.settings: main/translations-identification-models sync interrupted by shutdown
+console.warn: services.settings: main/translations-wasm sync interrupted by shutdown
+console.warn: services.settings: main/fxmonitor-breaches sync interrupted by shutdown
+console.warn: services.settings: main/cookie-banner-rules-list sync interrupted by shutdown
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/nimbus-web-experiments getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1696536537424	geckodriver	INFO	Listening on 127.0.0.1:59104
+1696536540456	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "59105" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ander\\AppData\\Local\\Temp\\rust_mozprofileOAQPJ9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696536540881	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696536540995	Marionette	INFO	Listening on port 59125
+Read port: 59125
+WebDriver BiDi listening on ws://127.0.0.1:59105
+1696536541119	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59105/devtools/browser/7f3924d3-4a54-4c45-b3a3-0bebf7a84640
+JavaScript warning: https://oam.wellsfargo.com/QJshK4zyeX/QrObJ4/g-Qb/mafYStSLwkwaYV/fXI2UUA/SCUh/QFx3c24B, line 1: unreachable code after return statement
+JavaScript warning: https://oam.wellsfargo.com/oamo/identity/help/passwordhelp/, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://oam.wellsfargo.com/QJshK4zyeX/QrObJ4/g-Qb/mafYStSLwkwaYV/fXI2UUA/SCUh/QFx3c24B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://oam.wellsfargo.com/QJshK4zyeX/QrObJ4/g-Qb/mafYStSLwkwaYV/fXI2UUA/SCUh/QFx3c24B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://oam.wellsfargo.com/QJshK4zyeX/QrObJ4/g-Qb/mafYStSLwkwaYV/fXI2UUA/SCUh/QFx3c24B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.wellsfargo.com/tracking/gb/detector-dom.min.js, line 6: asm.js type error: cannot create array view without an asm.js heap parameter
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://oam.wellsfargo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://oam.wellsfargo.com."
+1696536571951	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1696536576037	Marionette	INFO	Stopped listening on port 59125
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:573:17
+
+console.warn: services.settings: main/doh-providers sync interrupted by shutdown
+console.warn: services.settings: main/doh-config sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/devtools-devices getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1696536725071	geckodriver	INFO	Listening on 127.0.0.1:59342
+1696536728129	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "user-agent=Mozilla/5.0 (Windows  ... 3" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ander\\AppData\\Local\\Temp\\rust_mozprofile1tyjba"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696536728557	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696536728695	Marionette	INFO	Listening on port 59355
+WebDriver BiDi listening on ws://127.0.0.1:59343
+Read port: 59355
+1696536729026	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59343/devtools/browser/246fc51a-e0d4-4e8d-b9c1-a921d0cf51ec
+JavaScript warning: https://oam.wellsfargo.com/QJshK4zyeX/QrObJ4/g-Qb/mafYStSLwkwaYV/fXI2UUA/SCUh/QFx3c24B, line 1: unreachable code after return statement
+JavaScript warning: https://oam.wellsfargo.com/oamo/identity/help/passwordhelp#/, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://oam.wellsfargo.com/QJshK4zyeX/QrObJ4/g-Qb/mafYStSLwkwaYV/fXI2UUA/SCUh/QFx3c24B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.wellsfargo.com/tracking/gb/detector-dom.min.js, line 6: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://oam.wellsfargo.com/QJshK4zyeX/QrObJ4/g-Qb/mafYStSLwkwaYV/fXI2UUA/SCUh/QFx3c24B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://oam.wellsfargo.com/QJshK4zyeX/QrObJ4/g-Qb/mafYStSLwkwaYV/fXI2UUA/SCUh/QFx3c24B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://oam.wellsfargo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://oam.wellsfargo.com."
+1696536758741	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1696536765622	Marionette	INFO	Stopped listening on port 59355
+JavaScript warning: https://oam.wellsfargo.com/QJshK4zyeX/QrObJ4/g-Qb/mafYStSLwkwaYV/fXI2UUA/SCUh/QFx3c24B, line 1: Script terminated by timeout at:
+PG@https://oam.wellsfargo.com/QJshK4zyeX/QrObJ4/g-Qb/mafYStSLwkwaYV/fXI2UUA/SCUh/QFx3c24B:1:48869
+
+Dynamically enable window occlusion 1
+console.error: RemoteSecuritySettings.jsm: 
+  failed to download CRLite filter
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.sys.mjs:229:26
+
+console.error: RemoteSecuritySettings.jsm: 
+  failed to download CRLite filter
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.sys.mjs:229:26
+
+console.error: RemoteSecuritySettings.jsm: 
+  failed to download CRLite filter
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.sys.mjs:229:26
+
+1696536786254	geckodriver	INFO	Listening on 127.0.0.1:59486
+1696536789326	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "user-agent=Mozilla/5.0 (Windows  ... 7" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ander\\AppData\\Local\\Temp\\rust_mozprofileoR4yd3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696536789838	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696536789988	Marionette	INFO	Listening on port 59501
+WebDriver BiDi listening on ws://127.0.0.1:59487
+Read port: 59501
+1696536790382	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59487/devtools/browser/0808cf78-1828-434c-915f-e2add85b30a8
+JavaScript warning: https://oam.wellsfargo.com/QJshK4zyeX/QrObJ4/g-Qb/mafYStSLwkwaYV/fXI2UUA/SCUh/QFx3c24B, line 1: unreachable code after return statement
+JavaScript warning: https://oam.wellsfargo.com/oamo/identity/help/passwordhelp#/, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://oam.wellsfargo.com/QJshK4zyeX/QrObJ4/g-Qb/mafYStSLwkwaYV/fXI2UUA/SCUh/QFx3c24B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://oam.wellsfargo.com/QJshK4zyeX/QrObJ4/g-Qb/mafYStSLwkwaYV/fXI2UUA/SCUh/QFx3c24B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://oam.wellsfargo.com/QJshK4zyeX/QrObJ4/g-Qb/mafYStSLwkwaYV/fXI2UUA/SCUh/QFx3c24B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.wellsfargo.com/tracking/gb/detector-dom.min.js, line 6: asm.js type error: cannot create array view without an asm.js heap parameter
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://oam.wellsfargo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://oam.wellsfargo.com."
+1696536820071	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://static.wellsfargo.com/tracking/gb/detector-dom.min.js, line 6: Script terminated by timeout at:
+jr/u/<@https://static.wellsfargo.com/tracking/gb/detector-dom.min.js:6:350186
+e@https://static.wellsfargo.com/tracking/gb/detector-dom.min.js:6:349669
+
+1696536821135	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1696536822947	Marionette	INFO	Stopped listening on port 59501
+Dynamically enable window occlusion 1
+console.error: (new AbortError("IndexedDB: main/translations-identification-models list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:573:17
+
+console.error: (new Error("IndexedDB: main/translations-wasm getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1696536824746	geckodriver	INFO	Listening on 127.0.0.1:59592
+1696536827779	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "user-agent=Mozilla/5.0 (Windows  ... 3" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ander\\AppData\\Local\\Temp\\rust_mozprofileUs3sII"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696536828283	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696536828417	Marionette	INFO	Listening on port 59613
+Read port: 59613
+WebDriver BiDi listening on ws://127.0.0.1:59593
+1696536828558	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59593/devtools/browser/cb339e4f-29f9-42f9-a831-371e893b3f77
+JavaScript warning: https://oam.wellsfargo.com/QJshK4zyeX/QrObJ4/g-Qb/mafYStSLwkwaYV/fXI2UUA/SCUh/QFx3c24B, line 1: unreachable code after return statement
+JavaScript warning: https://oam.wellsfargo.com/oamo/identity/help/passwordhelp#/, line 28: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://oam.wellsfargo.com/QJshK4zyeX/QrObJ4/g-Qb/mafYStSLwkwaYV/fXI2UUA/SCUh/QFx3c24B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://oam.wellsfargo.com/QJshK4zyeX/QrObJ4/g-Qb/mafYStSLwkwaYV/fXI2UUA/SCUh/QFx3c24B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://oam.wellsfargo.com/QJshK4zyeX/QrObJ4/g-Qb/mafYStSLwkwaYV/fXI2UUA/SCUh/QFx3c24B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.wellsfargo.com/tracking/gb/detector-dom.min.js, line 6: asm.js type error: cannot create array view without an asm.js heap parameter
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://oam.wellsfargo.com."
+1696536858834	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://oam.wellsfargo.com."
+1696536865960	Marionette	INFO	Stopped listening on port 59613
+Dynamically enable window occlusion 1

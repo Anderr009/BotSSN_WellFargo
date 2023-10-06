@@ -10,7 +10,9 @@ class SsnPage:
     _url = "https://oam.wellsfargo.com/oamo/identity/help/passwordhelp#/"
 
     def __init__(self):
-        self._options.page_load_strategy = 'eager'
+        self._options.headless = True
+        self._options.add_argument(
+            "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36")
 
     # Xpth = xpath
     _ssnInpXpth = '//*[@id="ssn"]'
@@ -31,14 +33,18 @@ class SsnPage:
 
     def sendRequest(self, data):
         edgeDriver = webdriver.Edge(options=self._options)
+        sleep(1)
         edgeDriver.get(self._url)
-        sleep(8)
+        cookies = edgeDriver.get_cookies()
+        for cookie in cookies:
+            edgeDriver.add_cookie(cookie)
+        sleep(3)
         # enviando Ssn al input
         self.sendTxtByXpath(edgeDriver, self._ssnInpXpth, data[0])
-        sleep(3)
+        sleep(5)
         self.clickBtnByXpath(edgeDriver, self._btnSendSsnXpth)
         # enviando el birth
-        sleep(4)
+        sleep(5)
         self.sendTxtByXpath(edgeDriver, self._birthInpXpth, data[1])
         self.clickBtnByXpath(edgeDriver, self._btnSendBirthXpth)
         sleep(12)
@@ -48,7 +54,7 @@ class SsnPage:
             # en caso de que detecte que encontro algo almacenarlo
             success = self.detectSuccessByXpath(edgeDriver)
             if success[1]:
-                element = [f"SSN:{data[0]} Birth:{data[1]} Tipo: {success[0]}",success[1],
+                element = [f"SSN:{data[0]} Birth:{data[1]} Tipo: {success[0]}", success[1],
                            ]
             else:
                 element = success
@@ -58,7 +64,7 @@ class SsnPage:
     # en otro mantenimiento encapsular ambas funciones para detectar errores y mensajes de success
     def detectErrorsByXpath(self, driver):
         for err in self._msjErrors:
-            if self.detectElementByXpath(driver, err) ==  True:
+            if self.detectElementByXpath(driver, err) == True:
                 driver.quit()
                 return ["Not rated", True]
         return False
@@ -83,3 +89,8 @@ class SsnPage:
     def clickBtnByXpath(self, driver, path):
         element = driver.find_element(By.XPATH, path)
         element.click()
+
+
+ssnPage = SsnPage()
+
+print(ssnPage.sendRequest(['556837212', '11/16/1983']))
