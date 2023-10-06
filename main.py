@@ -2,6 +2,7 @@ from Pages.SsnPage import SsnPage
 from Utils.TextProcessor import TextProcessor
 from Utils.SaveData import WriteOutput
 from Utils.Worker import Worker
+from time import sleep
 import threading
 
 # test area
@@ -33,7 +34,7 @@ if __name__ == "__main__":
     ssnPage = SsnPage()
 
     num_hilos = 5
-    data = txtProc.extractDataTxt("./Data/DataTest2.txt")
+    data = txtProc.extractDataTxt("./Data/DataSet.txt")
     dataDivided = Worker.dataDivisor(data, num_hilos)
 
     # print(dataDivided)
@@ -47,6 +48,7 @@ if __name__ == "__main__":
         hilos.append(hilo)
 
         # Inicia el hilo
+        sleep(2)
         hilo.start()
 
     for hilo in hilos:
